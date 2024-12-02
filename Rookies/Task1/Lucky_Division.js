@@ -31,4 +31,3 @@ almostLucky(16);
 
 // Example 3:
 almostLucky(78);
-
